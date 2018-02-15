@@ -2,6 +2,9 @@
 title: Siteleaf Sample
 timezone: UTC
 collections:
+  architects:
+    title: Architects
+    output: true
   posts:
     title: Posts
     output: true
