@@ -6,7 +6,7 @@ collections:
     title: Posts
     output: true
   skyscrapers:
-    title: Skyscraoers
+    title: Skyscrapers
     output: true
   uploads:
     title: Uploads
